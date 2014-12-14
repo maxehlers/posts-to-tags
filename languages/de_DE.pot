@@ -1,0 +1,9 @@
+/*
+ * Plugin Name: Posts to Tags
+ * Author: Maximilian Ehlers
+ * Text Domain: posts-to-tags
+ * Domain Path: /languages
+ */
+ #: templates/options.php:44
+msgid "Post title"
+msgstr "Titel des Eintrags"

@@ -1,0 +1,1 @@
+<div id="message" class="updated below-h2" style="display:none;"><p>The selected posts where allocated to <?= $tag->name; ?>. Well done!</p></div>
